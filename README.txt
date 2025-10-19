@@ -14,7 +14,7 @@ when the spread becomes statistically significant. It's built around two main co
 
 ### Key Features
 
-- Uses machine learning to score and select the best pairs to trade (trains on the first six months of 2024)
+- Uses machine learning to score and select the best pairs to trade (trains on the first six months of 2025)
 - Adapts position sizes based on volatility and correlation
 - Manages risk through position limits and stop losses
 - Accounts for transaction costs and market impact
@@ -24,12 +24,12 @@ when the spread becomes statistically significant. It's built around two main co
 
 The backtest results were pretty encouraging:
 
-- Made a 62.19% total return (over five months of testing period in 2024)
+- Made a 62.19% total return (over five months of testing period in 2025)
 - Annualized to 14.78%
 - Sharpe ratio of 1.02
 - Max drawdown stayed under 10%
 
-The strategy was consistently profitable across all test months in 2024:
+The strategy was consistently profitable across all test months in 2025:
 
 | Month | Return |
 |-------|---------|
